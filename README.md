@@ -24,8 +24,8 @@ O principal objetivo deste projeto é entender os motivos por trás dos cancelam
 
 ## 📂 Estrutura do Projeto
 
-- **`base_de_dados.csv`**: Arquivo com a base de dados de cancelamentos.
-- **`analise_cancelamentos.py`**: Código principal para análise, validação e criação de gráficos.
+- **`cancelamentos_sample.csv`**: Arquivo com a base de dados de cancelamentos.
+- **`main.ipynb`**: Código principal para análise, validação e criação de gráficos.
 - **Gráficos interativos**: Visualizações criadas para identificar padrões e tendências.
 
 ---
