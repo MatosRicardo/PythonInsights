@@ -1,4 +1,4 @@
-# Python Insights - Análise de Cancelamento de Clientes - Jornada Python
+# Python Insights - Análise de Cancelamento de Clientes - Jornada Python 2
 
 Este projeto foi desenvolvido para analisar e validar uma base de dados de clientes que cancelaram seus planos, identificando padrões e propondo medidas para reduzir os cancelamentos. Utilizamos **Python**, as bibliotecas **Pandas** para manipulação de dados e **Plotly** para visualização interativa.
 
